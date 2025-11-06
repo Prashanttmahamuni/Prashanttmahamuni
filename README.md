@@ -21,7 +21,7 @@
 - 🚀 Currently exploring **MLOps** and **Cloud-Native Architecture**.  
 - 📘 I’ve built and deployed **3-tier architectures**, **Auto Scaling**, **Load Balancers**, and **Monitoring with CloudWatch & Grafana**.  
 - 💬 Ask me about **AWS, CI/CD, Docker, Terraform, Jenkins, Kubernetes, and DevOps best practices**.  
-- 📫 Reach me at **[prashant.cloudengineer@gmail.com](mailto:prashant.cloudengineer@gmail.com)**  
+- 📫 Reach me at **[mahamuniprashant26@gmail.com](mailto:mahamuniprashant26@gmail.com)**  
 
 ---
 

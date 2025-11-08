@@ -71,15 +71,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prashantm&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantm&theme=tokyonight" />
-</p>
-
----
-
 ### 📞 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/prashantmahamuni/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" title="LinkedIn"/></a>

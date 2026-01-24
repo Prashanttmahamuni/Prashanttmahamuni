@@ -4,7 +4,7 @@
                             
 <p align="center">
   🌩️ Passionate about building scalable cloud infrastructure, automating everything, and delivering reliable deployments.      
-  Always learning and sharing about Cloud, DevOps, and modern Infrastructure as Code.
+  Always learning and sharing about Cloud, DevOps, and modern Infrastructure as Code.  
 </p>
  
 <!-- GIF -->

@@ -2,7 +2,7 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Prashant Mahamuni</font></h1>
 <h3 align="center"><font face="Arial"> 🚀 Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform | CI/CD Automation</font></h3>
                                                                
-<p align="center">    
+<p align="center">          
   🌩️ Passionate about building scalable cloud infrastructure, automating everything, and delivering reliable deployments.      
   Always learning and sharing about Cloud, DevOps, and modern Infrastructure as Code.  
 </p>

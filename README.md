@@ -34,7 +34,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40" title="C++"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" title="Shell Script"/>
 </p>
-
+    
 #### 🧩 Operating Systems
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" title="Linux"/>

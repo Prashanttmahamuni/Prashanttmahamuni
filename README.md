@@ -18,9 +18,9 @@
     
 ---
 
-### 🧠 Tech Stack Overview
+## 🧠 Tech Stack Overview
 
-#### 🖥️ Programming & Scripting
+### 🖥️ Programming & Scripting
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" title="Bash"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" title="Python"/>
@@ -28,20 +28,20 @@
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" title="Shell Script"/>
 </p>
     
-#### 🧩 Operating Systems
+### 🧩 Operating Systems
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" title="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40" title="Ubuntu"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" title="Amazon Linux"/>
 </p>
 
-#### 🗄️ Databases
+### 🗄️ Databases
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" title="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" title="PostgreSQL"/>
 </p>
 
-#### ⚙️ DevOps & Cloud Tools
+### ⚙️ DevOps & Cloud Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" title="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" title="Docker"/>
@@ -56,15 +56,15 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" title="Grafana"/>
 </p>
 
-#### 🧰 CI/CD & Automation
+### 🧰 CI/CD & Automation
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="45" height="45" title="GitHub Actions"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="45" height="45" title="Ansible"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="45" height="45" title="Jenkins"/> </p>
 
-#### 🧑‍💻 IDEs & Editors
+### 🧑‍💻 IDEs & Editors
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45" title="Visual Studio Code"/> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="45" height="45" title="Sublime Text"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="45" height="45" title="PyCharm"/> </p>
 
 ---
 
-### 📞 Connect with Me
+## 📞 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/prashantmahamuni/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" title="LinkedIn"/></a>
   <a href="mailto:mahamuniprashant26@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" title="Email"/></a>
